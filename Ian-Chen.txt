@@ -1,0 +1,15 @@
+What is the URL of your repository? It should be something like https://github.com/user-name/repository-name
+https://github.com/philosopherian/APCSP-Final-Project-Game
+
+What programming languages did you use to build this program?
+Javascript and GameMaker's built-in graphic language.
+
+How did you test your program? Describe your testing process in detail.
+Tested using GameMaker's debugging console and testing functions, which will run the game preview and allows for modifications and debugging.
+
+What is ONE piece of user feedback you got that was most valuable in improving your program?
+Use WASD to control movements instead of up-down-left-right.
+
+Your code is open source. Explain ONE way you hope someone will use your program code.
+Users can add new contents (sprites, objects, backgrounds, camera movements, etc.) to the game file and create their own version.
+They can also reference how things are done in this project to build their own.
